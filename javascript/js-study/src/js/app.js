@@ -227,3 +227,10 @@ console.log(newCelebrity.getId())
 newCelebrity.setId(432);
 newCelebrity.getId();
 console.log(newCelebrity.getId())
+
+var workOrder = []
+for (var i = 134; i<205;i++){
+	workOrder.push(i+1);
+}
+console.log(workOrder);
+
